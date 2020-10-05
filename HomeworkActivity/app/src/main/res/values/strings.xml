@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeworkActivity</string>
+    <string name="button_activity">Say Hello</string>
+    <string name="button_count">Count</string>
+    <string name="text_second_activity">Hello!</string>
+    <string name="text_main_activity">0</string>
+</resources>
