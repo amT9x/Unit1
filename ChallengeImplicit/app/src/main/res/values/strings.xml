@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ChallengeImplicit</string>
+    <string name="button_market">Market</string>
+    <string name="text_activity_main">Click here!</string>
+    <string name="_button_activity_items_show">Show</string>
+    <string name="button_return">Return</string>
+    <string name="text_title_list">List of items have bought:</string>
+    <string name="text_item1">Appale</string>
+    <string name="decri_item1">Tăng cường hệ thống miễn dịch của cơ thể</string>
+    <string name="text_item2">Mango</string>
+    <string name="decri_item2"></string>
+    <string name="text_item3">Banana</string>
+    <string name="decri_item3"></string>
+    <string name="text_item4">Orange</string>
+    <string name="decri_item4"></string>
+    <string name="text_item5">Egg</string>
+    <string name="decri_item5"></string>
+    <string name="text_item6">Meat</string>
+    <string name="decri_item6"></string>
+    <string name="text_item7">Clothes</string>
+    <string name="decri_item7"></string>
+    <string name="text_item8">Melon</string>
+    <string name="decri_item8"></string>
+    <string name="text_item9">Lemon</string>
+    <string name="decri_item9"></string>
+    <string name="text_item10">Fish</string>
+    <string name="decri_item10"><i>: Bổ sung nhiều đạm và canxi</i></string>
+</resources>
