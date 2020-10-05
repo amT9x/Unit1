@@ -1,0 +1,4 @@
+#Mon Oct 05 12:15:58 ICT 2020
+base.0=/home/tunghv/Unit1/SimpleCalc/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
