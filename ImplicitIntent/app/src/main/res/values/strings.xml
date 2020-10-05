@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Implicit Intent</string>
+    <string name="link_web">http://developer.android.com</string>
+    <string name="edittext_web">Enter a browser</string>
+    <string name="edittext_location">Enter a Location</string>
+    <string name="edittext_Info_share">Enter info to share</string>
+    <string name="button_web">Open Web</string>
+    <string name="button_location">Open Location</string>
+    <string name="button_share">Share This Text</string>
+    <string name="text_share_title">Share this text with</string>
+    <string name="uri_label">URI:</string>
+    <string name="text_uri">uri</string>
+    <string name="button_capture_photo">Capture Photo</string>
+
+</resources>
