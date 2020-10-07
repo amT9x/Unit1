@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Homework 4_2</string>
+    <string name="head">Home work of Lession 4.2: Input controls</string>
+    <!-- checkbox -->
+    <string name="chocolate">Chocolate syrup</string>
+    <string name="Sprinkles">Sprinkles</string>
+    <string name="Crushed">Crushed nuts</string>
+    <string name="cherries">Cherries</string>
+    <string name="orio">Orio cookie crumbles</string>
+    <!-- -->
+    <string name="show_toast">Show Toast</string>
+
+    <string name="test">Test</string>
+</resources>
