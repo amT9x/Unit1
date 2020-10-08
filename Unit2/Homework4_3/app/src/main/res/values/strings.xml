@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Input Control Date</string>
+    <string name="action_settings">TungHV</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_head">Droid Desserts</string>
+    <string name="ice_cream_sandwiches">Ice cream sandwiches have chocolate wafers and vanilla filling.</string>
+    <string name="donuts">Donuts are glazed and sprinkled with candy.</string>
+    <string name="froyo">FroYo is premium self-serve frozen yogurt.</string>
+    <string name="donut_order_message">You ordered a donut.</string>
+    <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
+    <string name="froyo_order_message">You ordered a FroYo.</string>
+    <!-- Order Activity -->
+    <string name="text_name">Name</string>
+    <string name="hint_text_name">Enter your name</string>
+    <string name="text_address">Address</string>
+    <string name="hint_text_address">Enter your address</string>
+    <string name="text_phone">Phone</string>
+    <string name="hint_text_phone">Enter your phone</string>
+    <string name="text_note">Note</string>
+    <string name="hint_text_note">Enter your note</string>
+    <string name="text_delivery">Choose a delivery method: </string>
+    <string name="text_same_day">Same day messenger service</string>
+    <string name="text_next_day">Next day ground delivery</string>
+    <string name="text_pickup">Pick up</string>
+        <!-- Spinner -->
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="text_date">Date</string>
+</resources>
