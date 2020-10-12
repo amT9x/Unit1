@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Homework 4_5</string>
+    <string name="activity_iphone_name">Iphone</string>
+    <string name="activity_bphone_name">Bphone</string>
+    <string name="activity_samsung_name">Samsung</string>
+
+    <string name="decribe_ip">Sản suất bởi công ty Apple.</string>
+    <string name="decribe_bp">Sản xuất bởi tập đoàn BKAV.</string>
+    <string name="decribe_samsung">Sản suất bởi công ty Samsung</string>
+
+    <string name="review_product">Đánh giá sản phẩm:</string>
+
+    <string name="review_samsung"><b>Sau chiếc Galaxy A51 thì Galaxy A71 là smartphone thứ hai trong dòng Galaxy A 2020 của Samsung có mặt trên thị trường với nhiều thay đổi.\n</b>
+        Điểm nhấn lớn nhất trong dòng Galaxy A năm nay là thiết kế màn hình đục lỗ kế thừa từ dòng Galaxy S và Note cao cấp.
+        Ngoài ra, Galaxy A71 cũng được nâng cấp về sức mạnh xử lý với con chip Snapdragon 730 đầu bảng trong phân khúc tầm trung, cụm camera sau với camera chính 64MP, camera macro độ phân giải 5MP cao nhất ở thời điểm hiện tại và phần mềm Android 10 mới nhất.
+        Máy tiếp tục kế thừa viên pin dung lượng lớn 4500 mAh hỗ trợ sạc nhanh 25W như các thế hệ trước (Galaxy A70/A70s).\n
+        Tuy vậy, mức giá của Galaxy A71 hiện tại đang khá cao tới 10,49 triệu đồng, thuộc phân khúc cận cao cấp.
+        Ở mức giá này, sản phẩm sẽ phải cạnh tranh với khá nhiều smartphone của chính Samsung như chiếc Galaxy A80 của năm ngoái và các hãng khác như Xiaomi Mi 9, Oppo Reno và Reno2.\n
+        <b>Thiết kế: Màn đục lỗ như Galaxy S/Note, thân nhựa, mỏng nhẹ.\n</b>
+        Galaxy A71 có thiết kế tổng thể giống với chiếc Galaxy A51.
+        Ở mặt trước, điểm thay đổi lớn nhất ở hai điện thoại Galaxy A này là màn hình đục lỗ chứa camera trước, một chi tiết được kế thừa từ dòng Galaxy S và Note cao cấp. Còn ở mặt sau, thay đổi dễ thấy ngay là cụm camera hình chữ L.
+        Có lẽ đây sẽ là ngôn ngữ thiết kế chung của dòng Galaxy A năm nay.\n
+        Với màn hình đục lỗ, mặt trước của Galaxy A71 thoáng đãng hơn hẳn.
+        Tỷ lệ màn hình/mặt trước đạt 87,2% chỉ kém chút so với Galaxy S10 (88,3%) và mỏng hơn so với màn hình giọt nước của Galaxy A70 đời cũ (86%).
+        Bên cạnh việc đục lỗ chứa camera trước, Samsung cũng phải tối ưu vài chi tiết để có được viền màn hình mỏng như vậy.
+        Cảm biến ánh sáng được đưa xuống dưới màn hình, còn loa thoại được thu gọn rất mảnh nằm giữa màn hình và khung máy.
+        Đèn LED thông báo bị loại bỏ nhưng bù lại thì màn hình lại có tính năng Always On hiển thị các thông báo ngay trên màn hình chờ.
+    </string>
+    <string name="review_Ip"></string>
+    <string name="review_Bp"></string>
+</resources>
