@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/http"
+        android:id="@+id/menuHTTP"/>
+    <item android:title="@string/https"
+        android:id="@+id/menuHTTPS"/>
+</menu>
